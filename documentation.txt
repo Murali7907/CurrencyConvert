@@ -24,16 +24,6 @@ Select the source currency.
 Choose the target currency.
 Click "Convert" to get the converted amount.
 
-Contributing
-------------
-
-We welcome contributions! If you have suggestions, found a bug, or want to contribute code, please follow the Contributing Guidelines.
-
-License
---------
-
-This project is licensed under the MIT License.
-
 Acknowledgments
 ---------------
 
