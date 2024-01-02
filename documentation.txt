@@ -1,0 +1,41 @@
+Currency Converter
+------------------
+The Currency Converter is a web application designed to simplify currency conversion by providing real-time foreign exchange rates. Whether you're a traveler, a business professional, or anyone dealing with international currencies, this tool makes it easy to perform quick and accurate currency conversions.
+
+Key Features
+------------
+
+User-Friendly Interface: Intuitive design for seamless user experience.
+Live Exchange Rates: Utilizes the ExchangeRate-API to fetch the latest currency exchange rates.
+Simple Conversion: Enter the amount, select source and target currencies, and get instant results.
+Responsive Design: Bootstrap is used for responsive and mobile-friendly styling.
+
+Getting Started
+---------------
+
+Clone or download the project.
+Open the index.html file in a web browser.
+
+Usage
+-----
+
+Enter the amount to convert.
+Select the source currency.
+Choose the target currency.
+Click "Convert" to get the converted amount.
+
+Contributing
+------------
+
+We welcome contributions! If you have suggestions, found a bug, or want to contribute code, please follow the Contributing Guidelines.
+
+License
+--------
+
+This project is licensed under the MIT License.
+
+Acknowledgments
+---------------
+
+Bootstrap for responsive styling.
+ExchangeRate-API for live exchange rates.
